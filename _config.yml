@@ -1,0 +1,22 @@
+app:
+  title: 'Beverly Sills Properties'
+  name: 'Beverly Sills Properties'
+  author: 'niden.net'
+  description: 'Beverly Sills Properties website'
+  keywords: ''
+  
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+
+
